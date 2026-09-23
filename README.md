@@ -1,5 +1,4 @@
-print("Hello from Luau!")
+print("Hello! My Lua test works.")
 
-local playerName = "Turbo"
-print("Hello, " .. playerName)# Lua-scripts
-Lua
+local message = "Delta test"
+print(message)
